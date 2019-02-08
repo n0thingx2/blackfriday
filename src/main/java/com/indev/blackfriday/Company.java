@@ -48,4 +48,14 @@ public class Company {
     public Company blackFriday() {
         return this;
     }
+    
+    public int someMethode1(){
+        return 1+2222;
+    }
+    public int someMethode13(){
+        return 1+222992;
+    }
+    public int someMethode12(){
+        return 1+222662;
+    }
 }
